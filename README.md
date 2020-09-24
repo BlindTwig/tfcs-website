@@ -1,4 +1,5 @@
-# tfcs-website
+# tfcs-website (archived)
+THIS FORK IS OLD AND OUTDATED. I AM NO LONGER A PART OF CONCUSSION STUDIOS.
 
 This fork is for me to test changes without comitting directly to the [live site](https://concussion-studios.github.io/tfcs-website).
 
